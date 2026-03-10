@@ -5,7 +5,7 @@ Plugin marketplace for Claude Code by [DeadSimple](https://github.com/deadsimple
 ## Install
 
 ```
-/plugin marketplace add deadsimple-xyz/deadsimple-claude
+/plugin marketplace add deadsimple-xyz/claude-plugins
 ```
 
 ## Available plugins
