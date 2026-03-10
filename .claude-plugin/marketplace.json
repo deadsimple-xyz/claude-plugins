@@ -1,0 +1,29 @@
+{
+  "name": "deadsimple",
+  "owner": {
+    "name": "DeadSimple",
+    "email": "hello@deadsimple.xyz"
+  },
+  "metadata": {
+    "description": "DeadSimple plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "hats",
+      "source": {
+        "source": "github",
+        "repo": "deadsimple-xyz/hats"
+      },
+      "description": "BDD-driven AI dev team. Five roles: Manager, Designer, CTO, QA, Developer.",
+      "version": "2.1.0",
+      "author": {
+        "name": "deadsimple"
+      },
+      "homepage": "https://github.com/deadsimple-xyz/hats",
+      "repository": "https://github.com/deadsimple-xyz/hats",
+      "license": "MIT",
+      "keywords": ["bdd", "gherkin", "agents", "roles", "tdd"],
+      "category": "development"
+    }
+  ]
+}
